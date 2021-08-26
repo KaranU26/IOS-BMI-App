@@ -1,7 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-#  BMI Calculator
+#  BMI Calculator from Udemy Course
 
 ## Our Goal
 
